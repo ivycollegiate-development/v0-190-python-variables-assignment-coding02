@@ -33,3 +33,34 @@ cat scroll
 
 You are now playing the game.
 May the gods save you.
+# Calculate average grade
+total_points = math_score + science_score + english_score
+average_grade = total_points / 3
+
+print("\n--- Grade Report ---")
+print("Math Score:", math_score)
+print("Science Score:", science_score)
+print("English Score:", english_score)
+print("Total Points:", total_points)print("Average Grade:", average_grade)
+# Personal Information Variables
+student_name = "__Andrew_________"
+student_age = ____14_______
+grade_level = __9_________
+
+# Academic Variables
+math_score = ____81_______
+science_score = ____78_______
+english_score = ____67_______
+
+# Time & Schedule Variables
+hours_studied = ___________
+days_in_week = ___________
+
+# Financial Variables
+lunch_money = ___________
+book_cost = ___________
+
+# Print all variables to verify
+print("Student Name:", student_name)
+print("Age:", student_age)
+# Continue printing remaining variables...

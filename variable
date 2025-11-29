@@ -1,0 +1,57 @@
+student
+"
+"
+name =
+_
+__Andrew_________
+student
+grade
+_
+age =
+___14________
+level =
+_
+___2________
+# A cad emi c V ari ab l es
+math
+score =
+_
+___81________
+science
+score =
+_
+___78________
+english
+score =
+_
+___67________
+# T i me & S ch ed ul e V ari ab l es
+hours
+studied =
+days
+_
+in
+_2__________
+week =
+_
+_
+___12________
+# F i nanci al V ari ab l es
+lunch
+_
+money =
+__10000_________
+book
+cost =
+_
+__100_________
+# P ri nt al l v ari ab l es t o veri f y
+print("Student Name:"
+, student
+_
+name)
+print("Age:"
+, student
+_
+age)
+# C ont i nue pri nt i n g remai ni n g v ari ab l es...
