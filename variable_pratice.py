@@ -4,17 +4,17 @@ student_age = 16
 grade_level = 10
 
 # Academic Variables
-math_score = ___________
-science_score = ___________
-english_score = ___________
+math_score = 80
+science_score = 90
+english_score = 90
 
 # Time & Schedule Variables
-hours_studied = ___________
-days_in_week = ___________
+hours_studied = 3
+days_in_week = 5
 
 # Financial Variables
-lunch_money = ___________
-book_cost = ___________
+lunch_money = 400
+book_cost = 200
 
 # Print all variables to verify
 print("Student Name:", student_name)
